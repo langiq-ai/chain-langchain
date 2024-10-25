@@ -64,5 +64,5 @@ chain = (
 )
 
 # Invoke the chain with a sample product and print the response
-response = chain.invoke({"product": "iphone 13"})
+response = chain.invoke({"product": "maxwell coffee"})
 print(response)
